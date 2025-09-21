@@ -1,3 +1,4 @@
-## Hi there 👋
+## VectorLiteDB
 
+🔥 The SQLite for vector embeddings
 
